@@ -15,7 +15,7 @@ function Features() {
                             </div>
                             <h5 className='mb-4 font-thin'>App Store</h5>
                             <div className="">
-                             <a className="bg-gray-200 shadow hover:bg-amber-400 text-stone-700 font-bold py-2 px-2 rounded-full " href="">Download</a>
+                             <a className="bg-gray-200 shadow hover:bg-amber-400 text-stone-700 font-nunito py-2 px-2 rounded-full " href="">Download</a>
                             </div>
                         </div>
                     </div>
@@ -26,7 +26,7 @@ function Features() {
                             </div>
                             <h5 className='mb-4'>Google Play</h5>
                             <div className="">
-                                <a className="bg-gray-200 shadow hover:bg-amber-400 text-stone-700 font-bold py-2 px-2 rounded-full" href="" >Download</a>
+                                <a className="bg-gray-200 shadow hover:bg-amber-400 text-stone-700 font-nunito py-2 px-2 rounded-full" href="" >Download</a>
                             </div>
                         </div>
                     </div>
@@ -38,7 +38,7 @@ function Features() {
                             <h5 className='mb-4'>Web</h5>
                             <div className="">
                                 
-                                <a className="bg-gray-200 shadow hover:bg-amber-400 text-stone-700 font-bold py-2 px-2 rounded-full" href="">Shop now</a>
+                                <a className="bg-gray-200 shadow hover:bg-amber-400 text-stone-700 font-nunito py-2 px-2 rounded-full" href="">Shop now</a>
                             </div>
                         </div>
                     </div>

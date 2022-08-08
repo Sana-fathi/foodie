@@ -18,52 +18,52 @@ function Benefits() {
             </div>
             <div className="m-8">
               <div className="px-4">
-                <h2 className="font-bold text-3xl">
+                <h2 className="font-semibold text-3xl font-nunito text-stone-600">
                   Exclusive App-Only features, perks and more.
                 </h2>
 
                 <ul className="mt-8">
                   <li className="flex flex-row">
                     <TiTick />
-                    <b className="px-2">Intutive User Interface</b>- Our user
+                    <b className="px-2 font-nunito text-stone-500">Intutive User Interface</b>- Our user
                     friendly app makes ordering from your favourite restaurants
                     even more easier.
                   </li>
                   <li className="flex flex-row">
                     <TiTick />
-                    <b className="px-2">Real Time Alert</b>- We will notify you
+                    <b className="px-2 font-nunito text-stone-500">Real Time Alert</b>- We will notify you
                     instantly at every stage of your order.
                   </li>
                   <li className="flex flex-row">
                     <TiTick />
-                    <b className="px-2">Tracking</b>- You can view the delivery
+                    <b className="px-2 font-nunito text-stone-500">Tracking</b>- You can view the delivery
                     rider location from our App.
                   </li>
-                  <li className="flex flex-row">
+                  <li className="flex flex-row ">
                     <TiTick />
-                    <b className="px-2">Exclusive Discounts</b>- Download Zippy
+                    <b className="px-2 font-nunito text-stone-500">Exclusive Discounts</b>- Download Zippy
                     SG app to enjoy app only perks.
                   </li>
                   <li className="flex flex-row">
                     <TiTick />
-                    <b className="px-2">Flexible Payment Options</b>- Pay using
+                    <b className="px-2 font-nunito text-stone-500">Flexible Payment Options</b>- Pay using
                     Visa, Master, Amex, Apple Pay, Android Pay and more. You can
                     save cards for faster checkouts.
                   </li>
                   <li className="flex flex-row">
                     <TiTick />
-                    <b className="px-2">Highly Secure</b>- Your information is
+                    <b className="px-2 font-nunito text-stone-500">Highly Secure</b>- Your information is
                     secure with our advanced encryptions and data management.
                   </li>
                   <li className="flex flex-row">
                     <TiTick />
-                    <b className="px-2">Contactless delivery</b>- Your safety is
+                    <b className="px-2 font-nunito text-stone-500">Contactless delivery</b>- Your safety is
                     important to us. Request for contactless delivery from our
                     app under delivery remarks.
                   </li>
                   <li className="flex flex-row">
                     <TiTick />
-                    <b className="px-2">Reservations</b>- Quickly and easily
+                    <b className="px-2 font-nunito text-stone-500">Reservations</b>- Quickly and easily
                     make a reservation at our partner restaurants using the in
                     app reservation feature.
                   </li>

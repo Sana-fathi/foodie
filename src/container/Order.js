@@ -11,22 +11,22 @@ function Order() {
     <div className='p-8'>
         <div className=' text-center py-4'>
             <h1 className='text-4xl font-bold text-stone-700 '>Order Process</h1>
-            <p className='mt-5'>Our simple & intutive user interface make it easy and convenient to place an order</p>
+            <p className='mt-5 text-stone-500'>Our simple & intutive user interface make it easy and convenient to place an order</p>
         </div>
     </div>
     <div className='flex'>
        <div className=''>
         <div className='p-10 w-[30vw]'>
-            <h4 className='flex font-semibold text-2xl text-stone-600'><VscPerson className='bg-gradient-to-t from-gray-100 to-slate-200 shadow-xl w-20 h-20 rounded-full -mt-10 m-5'/>Register for an account</h4>
-            <p className='font-base'>Download Zippy SG app and register for an account using your mobile number.</p>
+            <h4 className='flex font-semibold text-2xl text-stone-600 '><VscPerson className='bg-gradient-to-t from-gray-100 to-slate-200 shadow-xl w-20 h-20 rounded-full -mt-5 m-5'/>Register for an account</h4>
+            <p className='font-base ml-32 font-light text-stone-500 -mt-10'>Download Zippy SG app and register for an account using your mobile number.</p>
         </div>
         <div className='p-10 w-[50vw] pl-52'>
-            <h4 className='flex font-semibold text-2xl text-stone-600'><TiShoppingCart className='bg-gradient-to-t from-gray-100 to-slate-200 shadow-xl w-20 p-2 h-20 rounded-full -mt-10 m-5'/>Add to Cart & Checkout</h4>
-            <p className=''>Browse through our restaurant list and add item from your favourite restaurant to your cart and checkout. We will work with the restaurant to process the order.</p>
+            <h4 className='flex font-semibold text-2xl text-stone-600'><TiShoppingCart className='bg-gradient-to-t from-gray-100 to-slate-200 shadow-xl w-20 p-2 h-20 rounded-full -mt-5 m-5'/>Add to Cart & Checkout</h4>
+            <p className='font-base ml-32 font-light text-stone-500 -mt-10'>Browse through our restaurant list and add item from your favourite restaurant to your cart and checkout. We will work with the restaurant to process the order.</p>
         </div>
         <div className='p-10 w-[30vw]'>
-            <h4 className='flex font-semibold text-2xl text-stone-600'><MdDeliveryDining className='bg-gradient-to-t from-gray-100 to-slate-200 shadow-xl w-20 p-2 h-20 rounded-full -mt-10 m-5'/>Delivery</h4>
-            <p className=''>As soon as the food is ready, our delivery partner will quickly collect and deliver to your doorstep.</p>
+            <h4 className='flex font-semibold text-2xl text-stone-600'><MdDeliveryDining className='bg-gradient-to-t from-gray-100 to-slate-200 shadow-xl w-20 p-2 h-20 rounded-full -mt-5 m-5'/>Delivery</h4>
+            <p className='font-base ml-32 font-light text-stone-500 -mt-10'>As soon as the food is ready, our delivery partner will quickly collect and deliver to your doorstep.</p>
         </div>
         </div> 
        <div className='w-[50vw] h-96'>

@@ -58,20 +58,20 @@ export default function NavBar() {
                         }`}
                     >
                         <ul className="items-center justify-center space-y-8 md:flex md:space-x-6 md:space-y-0">
-                            <li className="text-gray-600 font-bold hover:text-amber-900">
-                                <a href="javascript:void(0)">Home</a>
+                            <li className="text-gray-600 font-medium hover:text-amber-900">
+                                <a href="#">Home</a>
                             </li>
-                            <li className="text-gray-600 font-bold hover:text-amber-900">
-                                <a href="javascript:void(0)">Benefits</a>
+                            <li className="text-gray-600 font-medium hover:text-amber-900">
+                                <a href="#">Benefits</a>
                             </li>
-                            <li className="text-gray-600 font-bold hover:text-amber-900">
-                                <a href="javascript:void(0)">Features</a>
+                            <li className="text-gray-600 font-medium hover:text-amber-900">
+                                <a href="#">Features</a>
                             </li>
-                            <li className="text-gray-600 font-bold hover:text-amber-900">
-                                <a href="javascript:void(0)">Screenshots</a>
+                            <li className="text-gray-600 font-medium hover:text-amber-900">
+                                <a href="#">Screenshots</a>
                             </li>
-                            <li className="text-gray-600 font-bold hover:text-amber-900">
-                                <a href="javascript:void(0)">Order Process</a>
+                            <li className="text-gray-600 font-medium hover:text-amber-900">
+                                <a href="#">Order Process</a>
                             </li>
                             {/* <li className="text-gray-600 hover:text-blue-600">
                                 <a href="javascript:void(0)">Order with Web</a>
