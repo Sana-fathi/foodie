@@ -6,10 +6,10 @@ import {SiGooglechrome} from 'react-icons/si'
 function Features() {
   return (
     <div>
-        <div className="pl-[1500px] -mt-96">
+        <div className="">
     
                     <div className="">
-                        <div className="animate-pulse bg-gradient-to-tr from-gray-100 to-slate-200 shadow-2xl rounded-full w-32 py-5 text-center">
+                        <div className="animate-pulse bg-gradient-to-tr from-gray-100 to-slate-200 shadow-2xl rounded-full text-center">
                             <div className="px-12">
                                <AiFillApple size={30} className='fill-stone-800 '/>
                             </div>
