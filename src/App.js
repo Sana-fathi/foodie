@@ -1,6 +1,8 @@
 import NavBar from './components/Navbar';
+import About from './container/About';
 import Benefits from './container/Benefits';
 import Cards from './container/Cards';
+import Contact from './container/Contact';
 import Features from './container/Features';
 import Footer from './container/Footer';
 import Hero from './container/Hero';
@@ -12,12 +14,15 @@ function App() {
     <div className="App">
    <NavBar />   
 <Hero />
-{/* <Cards /> */}
+<Cards />
 {/* <Features /> */}
-{/* <Benefits /> */}
-{/* <Order /> */}
-{/* <Slider /> */}
-{/* <Footer /> */}
+
+<Benefits />
+<Slider />
+<Order />
+{/* <About /> */}
+<Contact />
+<Footer />
     </div>
   );
 }

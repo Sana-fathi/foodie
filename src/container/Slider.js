@@ -54,10 +54,10 @@ export default function Slider() {
 
   return (
 
-    <div ref={slideRef} className="mt-32 relative bg-stone-200">
+    <div ref={slideRef} className=" relative bg-stone-200">
       <div className="h-[80vh]">
       <div className=" text-center mb-5">
-                            <h2 className="text-4xl font-bold text-stone-700 py-10">Explore Our Special Menu</h2>
+                            <h2 className="text-2xl sm:text-3xl font-base text-stone-700 py-10">Explore Our Special Menu</h2>
                             <p></p>
                         </div>
                         <div className="">
