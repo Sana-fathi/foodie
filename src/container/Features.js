@@ -6,7 +6,7 @@ import {SiGooglechrome} from 'react-icons/si'
 function Features() {
   return (
     <div>
-        <div className="xl:-mt-96 xl:-pt-[1600px] xl:pl-[1600px]">
+        <div className="xl:-mt-96 xl:-pt-[1600px] xl:pl-[1600px] 2xl:pl-[1380px]">
     
                     <div className="" >
                         <div className="animate-pulse bg-gradient-to-tr from-gray-100 to-slate-200 w-32 shadow-2xl rounded-full py-5 text-center">

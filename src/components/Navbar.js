@@ -73,6 +73,12 @@ export default function NavBar() {
                             <li className="text-gray-600 font-medium hover:text-amber-900">
                                 <a href="#">Order Process</a>
                             </li>
+                            <li className="text-gray-600 font-medium hover:text-amber-900">
+                                <a href="#">Contact</a>
+                            </li> 
+                            <li className="text-gray-600 font-medium hover:text-amber-900">
+                                <a href="#">About</a>
+                            </li>
                             {/* <li className="text-gray-600 hover:text-blue-600">
                                 <a href="javascript:void(0)">Order with Web</a>
                             </li> */}

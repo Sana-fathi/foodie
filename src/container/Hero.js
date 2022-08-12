@@ -16,7 +16,7 @@ function Hero() {
 </svg> */}
 
 
-        <div className='-mt-20 xl:-mt-72 xl:w-[70vw] rounded-xl bg-gradient-to-t from-gray-100 to-slate-200 shadow-2xl h-[50vh] lg:w-[80vw] lg:px-5 lg:-mt-52 '>
+        <div className='-mt-20 xl:-mt-72 xl:w-[70vw] rounded-xl bg-gradient-to-t from-gray-100 to-slate-200 shadow-2xl h-[50vh] lg:w-[80vw] lg:px-5 lg:-mt-52 2xl:pl-52'>
           <h1 className='font-nunito font-base text-xl text-stone-700 pt-24 pl-10 px-20 xl:pl-[400px] xl:text-4xl leading-relaxed lg:text-3xl lg:px-10 lg:pl-96 2xl:text-3xl 2xl:pl-[500px] 2xl:px-48'>Best Way to Order Your Favourite Food!</h1>
 
           <p className='font-light text-stone-500 text-sm pl-10 xl:pl-[400px] xl:px-32 leading-relaxed lg:px-10 lg:pl-96 2xl:pl-[500px] 2xl:px-48 2xl:text-xl 2xl:mt-2'>Your favourite restaurants at your fingertips. Satisfy your
