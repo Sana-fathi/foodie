@@ -16,14 +16,14 @@ function Hero() {
 </svg> */}
 
 
-        <div className='-mt-20 xl:-mt-72 xl:w-[70vw] rounded-xl bg-gradient-to-t from-gray-100 to-slate-200 shadow-2xl h-[50vh]'>
-          <h1 className='font-nunito font-base text-xl text-stone-700 pt-24 pl-10 px-20 xl:pl-[600px] xl:text-5xl leading-relaxed'>Best Way to Order Your Favourite Food!</h1>
+        <div className='-mt-20 xl:-mt-72 xl:w-[70vw] rounded-xl bg-gradient-to-t from-gray-100 to-slate-200 shadow-2xl h-[50vh] lg:w-[80vw] lg:px-5 lg:-mt-52 '>
+          <h1 className='font-nunito font-base text-xl text-stone-700 pt-24 pl-10 px-20 xl:pl-[400px] xl:text-4xl leading-relaxed lg:text-3xl lg:px-10 lg:pl-96 2xl:text-3xl 2xl:pl-[500px] 2xl:px-48'>Best Way to Order Your Favourite Food!</h1>
 
-          <p className='font-light text-stone-500 text-sm pl-10 xl:pl-[600px] xl:px-32 leading-relaxed'>Your favourite restaurants at your fingertips. Satisfy your
+          <p className='font-light text-stone-500 text-sm pl-10 xl:pl-[400px] xl:px-32 leading-relaxed lg:px-10 lg:pl-96 2xl:pl-[500px] 2xl:px-48 2xl:text-xl 2xl:mt-2'>Your favourite restaurants at your fingertips. Satisfy your
             cravings with our Island wide delivery. Go ahead, download Zippy
             SG app for convenient ordering & tracking.</p>
 
-             <div className="flex flex-row p-9  xl:pl-[600px] xl:p-8">
+             <div className="flex flex-row p-9  xl:pl-[400px] lg:px-10 lg:pl-96 2xl:pl-[500px] 2xl:px-10">
             {/* <MdShareLocation className=" absolute hover:animate-ping fill-black mt-1" /> */}
             <input className="bg-gray-100 border-0  rounded shadow-inner text-stone-800 xl:p-2 xl:px-6"
               type="text"
@@ -34,11 +34,11 @@ function Hero() {
           
           <button className="mx-1 text-sm px-1 xl:p-2 xl:px-6 rounded leading-relaxed text-black font-light  bg-amber-200 hover:bg-black hover:text-white xl:mx-5">Pick Up</button>
           </div>
-          {/* <Features /> */}
+          <Features />
         </div> 
          
         
-<img src='../assets/pizza.png' className='xl:ml-[1260px] xl:mt-[-200px]'/> 
+<img src='../assets/pizza.png' className='xl:ml-[1300px]  md:ml-32 lg:ml-96 '/> 
 
 
 </div>

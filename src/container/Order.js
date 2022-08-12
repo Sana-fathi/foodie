@@ -96,12 +96,12 @@ function Order() {
         
       </div>
     </div>
-    <div className='h-72 xl:pl-[1000px]'>
+    <div className=''>
 
    
-    <img src='../assets/road.png' className=' w-[120vw] xl:-pt-[1200px] xl:w-[24vw]'/>
-    <img src='../assets/redloc.png' className='w-12 h-12 -mt-56 ml-32 xl:-pt-32 xl:ml-[185px] xl:-mt-72 animate-bounce'/>
-    <img src='../assets/loc.png' className='w-20 h-20 ml-10 xl:ml-[60px] animate-bounce'/>
+    {/* <img src='../assets/road.png' className=''/>
+    <img src='../assets/redloc.png' className='md:w-32 md:-mt-52 md:ml-72 animate-bounce'/>
+    <img src='../assets/loc.png' className='md'/> */}
         
        </div>
   </div>

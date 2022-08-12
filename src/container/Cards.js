@@ -65,7 +65,7 @@ function Cards() {
   <div className="container px-5 py-24 mx-auto">
     <div className="flex flex-wrap w-full mb-20">
       <div className="lg:w-1/2 w-full mb-6 lg:mb-0">
-        <h1 className="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900"> Order food delivery you’ll love</h1>
+        <h1 className="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900 md:text-4xl md:pt-32"> Order food delivery you’ll love</h1>
         <div clasNames="h-1 w-20 bg-indigo-500 rounded"></div>
       </div>
       <p className="w-full leading-relaxed text-gray-500"> Pickup or delivery from restaurants island wide. Satisfy any craving
